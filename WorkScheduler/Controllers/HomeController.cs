@@ -80,24 +80,11 @@ namespace WorkScheduler.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // GET: Home/Delete/5
-        public async Task<IActionResult> Delete(int id)
-        {
-            var work = await _databaseInteraction.GetById(id);
-            if (work == null)
-            {
-                return NotFound();
-            }
-            return View(work);
-        }
-
         // POST: Home/Delete/5
         [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task Delete(int id)
         {
             await _databaseInteraction.Delete(id);
-            return RedirectToAction(nameof(Index));
         }
     }
 }
