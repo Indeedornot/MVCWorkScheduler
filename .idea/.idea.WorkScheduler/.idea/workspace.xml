@@ -5,7 +5,22 @@
     <projectFile profileName="IIS Express">WorkScheduler/WorkScheduler.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65f57be-f21e-47eb-8892-b4b078c20927" name="Changes" comment="" />
+    <list default="true" id="a65f57be-f21e-47eb-8892-b4b078c20927" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/bin/Debug/net6.0/WorkScheduler.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/bin/Debug/net6.0/WorkScheduler.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/bin/Debug/net6.0/WorkScheduler.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/bin/Debug/net6.0/WorkScheduler.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/bin/Debug/net6.0/WorkScheduler.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/bin/Debug/net6.0/WorkScheduler.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/bin/Debug/net6.0/WorkScheduler.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/bin/Debug/net6.0/WorkScheduler.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/WorkScheduler.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/WorkScheduler.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/WorkScheduler.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/WorkScheduler.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/WorkScheduler.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/WorkScheduler.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/ref/WorkScheduler.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/ref/WorkScheduler.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/refint/WorkScheduler.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/refint/WorkScheduler.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/Debug/net6.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkScheduler/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/WorkScheduler/obj/staticwebassets.pack.sentinel" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +90,7 @@
       <workItem from="1653566328574" duration="11658000" />
       <workItem from="1653581781909" duration="203000" />
       <workItem from="1653582178612" duration="1711000" />
+      <workItem from="1653636141471" duration="288000" />
     </task>
     <servers />
   </component>
